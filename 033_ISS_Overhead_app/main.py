@@ -3,10 +3,10 @@ import  _datetime as dt
 import smtplib
 import  time
 
-MY_LAT = 27.700769 # Your latitude
-MY_LONG = 85.300140 # Your longitude
-email = "atishtest2060@gmail.com"
-password = "pzch mfxp mvwn fiwu"
+MY_LAT =  # Your latitude
+MY_LONG =  # Your longitude
+email = ""
+password = ""
 
 parameters = {
     "lat": MY_LAT,
@@ -49,11 +49,6 @@ while True:
 
 
 
-
-#If the ISS is close to my current position
-# and it is currently dark
-# Then send me an email to tell me to look up.
-# BONUS: run the code every 60 seconds.
 
 
 
